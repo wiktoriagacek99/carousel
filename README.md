@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Carousel
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This carousel is made with Nuxt3, Composition API (script setup) and SCSS. Images are fetched from API (https://api.nuxtjs.dev/). The carousel can be swiped with both mouse click and mouse movement/touch movement. It is looped (so swipe away 😉) and utilizes cookies to store the last displayed image and start from it after refresh.
 
 ## Setup
 
